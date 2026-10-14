@@ -1,0 +1,78 @@
+[
+  {
+    "question": "How many days of annual leave do full-time employees receive?",
+    "answerable": true,
+    "evidence": [
+      "leave_policy.md"
+    ]
+  },
+  {
+    "question": "How far in advance should leave be requested?",
+    "answerable": true,
+    "evidence": [
+      "leave_policy.md"
+    ]
+  },
+  {
+    "question": "How many unused leave days may be carried over?",
+    "answerable": true,
+    "evidence": [
+      "leave_policy.md"
+    ]
+  },
+  {
+    "question": "How many days per week may employees work remotely?",
+    "answerable": true,
+    "evidence": [
+      "remote_work.txt"
+    ]
+  },
+  {
+    "question": "Who must approve remote work?",
+    "answerable": true,
+    "evidence": [
+      "remote_work.txt"
+    ]
+  },
+  {
+    "question": "What equipment does the company provide to full-time employees?",
+    "answerable": true,
+    "evidence": [
+      "remote_work.txt"
+    ]
+  },
+  {
+    "question": "How many annual leave days can be carried over, and how early must leave be requested?",
+    "answerable": true,
+    "evidence": [
+      "leave_policy.md"
+    ]
+  },
+  {
+    "question": "What are employees responsible for when working remotely, and who approves remote work?",
+    "answerable": true,
+    "evidence": [
+      "remote_work.txt"
+    ]
+  },
+  {
+    "question": "What is the company's annual revenue?",
+    "answerable": false,
+    "evidence": []
+  },
+  {
+    "question": "What is the CEO's date of birth?",
+    "answerable": false,
+    "evidence": []
+  },
+  {
+    "question": "Which health insurance provider does the company use?",
+    "answerable": false,
+    "evidence": []
+  },
+  {
+    "question": "What is the population of Mars?",
+    "answerable": false,
+    "evidence": []
+  }
+]
